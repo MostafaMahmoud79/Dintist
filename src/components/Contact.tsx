@@ -32,7 +32,7 @@ export function Contact() {
                 </a>
                 <div className="flex items-center gap-3 text-gray-600 dark:text-gray-300">
                   <MapPin size={20} />
-                  <span>Alexandria, Egypt, Camp Shezar</span>
+                  <span>Alexandria, Egypt, Camp Shezar </span>
                 </div>
               </div>
             </div>
